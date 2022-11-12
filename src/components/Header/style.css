@@ -1,0 +1,5 @@
+.header{
+    background-color: #1D1D1D;
+    padding: 1rem 1rem 1rem; /*rem é o pixel de acordo com o monitor, é mais responsivo*/
+    /*display: flex;*/
+}/*end heaer*/
