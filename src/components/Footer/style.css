@@ -1,10 +1,8 @@
-.header{
+.footer{
+    font-size: small;
+    font-weight: bold;
     background-color: #1D1D1D;
     width: 100%;
     padding: 1rem 0 1rem; /*rem é o pixel de acordo com o monitor, é mais responsivo*/
-    /*display: flex;*/
-}/*end heaer*/
-
-h1{
-    padding-left: 1rem;
-}
+    text-align: center;
+}/*end footer*/

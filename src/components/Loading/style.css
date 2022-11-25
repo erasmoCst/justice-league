@@ -1,0 +1,18 @@
+.loading{
+    margin: 8px;
+    border-radius: 50%;
+    /*background-color: red;*/
+    border: 6px solid #FFFFFF;
+    border-color: #FFFFFF transparent transparent transparent;
+    animation: rotate 1s linear infinite;
+    visibility: "visible"
+}
+
+@keyframes rotate {
+    0%{
+        transform: rotate(-360deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

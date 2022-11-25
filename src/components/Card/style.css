@@ -5,3 +5,17 @@
     border-radius: 8px;
     width: 200px;
 }
+
+.card:hover{
+    transform: scale(102%);
+    transition: 0.3s;
+    filter: brightness(1.2);
+}
+
+.card > img{
+    cursor: pointer;
+}
+
+.card > h4{
+    cursor: pointer;
+}
